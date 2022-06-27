@@ -1,16 +1,11 @@
-### Hi there 👋
 
-<!--
-**Marionetista/Marionetista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div align="center">
+    <h4>You are ther</h4>      
+    <img src="https://cdn.discordapp.com/attachments/933746560280440945/990846309575557130/hitcounter.png">
+      <h4>visitor!!</h4>      
+  </div>
+  <br>
+<div align="center">
+  <p>Best viewed with</p>
+  <img src="https://cdn.discordapp.com/attachments/933746560280440945/990847962777260043/unknown.png">
+</div>
